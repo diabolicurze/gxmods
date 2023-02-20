@@ -1,8 +1,8 @@
 {
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "yomama": "when the when the",
+    "stray kids wow":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "diabolicurze"
     },
     "icons":
     {
@@ -163,7 +163,7 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "https://i.pinimg.com/474x/7d/fa/3d/7dfa3da2fb60129c8716e1a5f41e0047.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
